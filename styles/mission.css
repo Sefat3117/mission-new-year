@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.banner{
+    height: 808px;
+    background-image: url('../images/banner/banner3.png');
+    margin-bottom: 130px;
+}
+.banner-text{
+    float: right;
+    width: 45%;
+    margin-top: 216px;
+    margin-left: 816px;
+}
+.banner-title{
+    height: 228px;
+    width: 525px;
+    font-size: 65px;
+    text-align: right;
+    color:#FFFFFF;
+}
+.banner-description{
+    height: 78px;
+    width: 494px;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+    color: #FFFFFF;
+    display: block;
+    margin: 24px 0 32px 30px;
+}
+.banner-button{
+    color: #005FAC;
+    size: 20px;
+    height: 64px;
+    width: 160px;
+    border-radius: 5px;
+    outline-color: black;
+    margin-left: 60%;
+    font-weight: 600;
+}
+/* previous-year styles */
+.previous-year{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.previous-year-pic img{
+    height: 723.2998046875px;
+    width: 569px;
+} 
+.previous-year-description{
+    height: 400px;
+    width: 416px;
+    font-size: 16px;
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+.previous-year-title{
+    height: 94px;
+width: 288px;
+font-size: 40px;
+}
+/* My plans styles */
+.My-plans-container{
+    margin-top: 130px;
+    
+}
+.My-plans-container h2{
+    margin-bottom: 50px;
+    text-align: center;
+}
+.My-plans{
+    display: flex;
+    justify-content: center;
+}
+.My-plans-title{
+    height: 197px;
+width: 214px;
+
+
+}
